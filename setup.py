@@ -13,10 +13,10 @@ DESCRIPTION = 'converts to upper case'
 
 # Setting up
 setup(
-    name="vidstream",
+    name="UpperCase",
     version=VERSION,
-    author="NeuralNine (Florian Dedov)",
-    author_email="<mail@neuralnine.com>",
+    author="akshatt_niggam",
+    author_email="nakshat2103@gmail.com",
     description=DESCRIPTION,
 
     packages=find_packages(),
